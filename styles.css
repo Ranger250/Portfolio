@@ -1,3 +1,66 @@
 body {
-    background-color: blue;
+    margin: 0;
+    background-color: rgb(174, 192, 252);
+}
+
+.title {
+    margin-left: 25%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(99, 153, 253);
+    border-radius: 10px;
+}
+
+.body-wrapper {
+    background-color: rgb(143, 149, 175);
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 4%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 5%;
+}
+
+.resume {
+    width: 80%;
+}
+
+.img-wrapper {
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.links-wrapper {
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.links-wrapper a {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 1.4em;
+    text-decoration: none;
+}
+
+.aboutme-wrapper {
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contact-wrapper {
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
