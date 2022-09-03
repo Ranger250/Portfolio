@@ -145,8 +145,15 @@ body {
     padding-bottom: 5%;
 }
 
+.body-wrapper-about h1 {
+    color: aliceblue;
+    font-size: 400%;
+}
+
 .body-wrapper-about p {
     text-align: center;
+    width: 50%;
+    font-size: 2em;
 }
 
 .body-wrapper-projects {
@@ -169,3 +176,35 @@ body {
     font-size: 350%;
     margin-bottom: 5%;
 }
+
+.body-wrapper-python{
+    background-color: rgb(50, 78, 102);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+}
+
+.body-wrapper-python p{
+    width: 50%;
+}
+
+.python-title {
+    font-size: 200%;
+}
+
+.project-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.project-title i {
+    font-size: 2em;
+    color: black;
+    margin-left: 20%;
+}
+
