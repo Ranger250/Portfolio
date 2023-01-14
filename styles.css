@@ -224,3 +224,6 @@ body {
     justify-content: space-around;
 }
 
+.side-by-side img {
+    width: 65%;
+}
