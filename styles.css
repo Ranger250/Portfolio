@@ -210,3 +210,9 @@ body {
     margin-left: 20%;
 }
 
+.side-by-side {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
