@@ -210,6 +210,10 @@ body {
     margin-left: 20%;
 }
 
+.about-me-item {
+    text-align: center;
+}
+
 .side-by-side {
     display: flex;
     align-items: center;
