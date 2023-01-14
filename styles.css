@@ -161,12 +161,12 @@ body {
 }
 
 .body-wrapper-about a:hover {
-  color: aliceblue;
+  color: lightblue;
   background-color: transparent;
 }
 
 .body-wrapper-about a:active {
-  color: aliceblue;
+  color: blue;
   background-color: transparent;
 }
 
