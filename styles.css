@@ -150,8 +150,24 @@ body {
     font-size: 400%;
 }
 
-.body-wrapper-about a {
-    color: aliceblue;
+.body-wrapper-about a:link {
+  color: aliceblue;
+  background-color: transparent;
+}
+
+.body-wrapper-about a:visited {
+  color: aliceblue;
+  background-color: transparent;
+}
+
+.body-wrapper-about a:hover {
+  color: aliceblue;
+  background-color: transparent;
+}
+
+.body-wrapper-about a:active {
+  color: aliceblue;
+  background-color: transparent;
 }
 
 .body-wrapper-about p {
