@@ -227,3 +227,7 @@ body {
 .side-by-side img {
     width: 65%;
 }
+
+.side-by-side p {
+    ont-size: 1em;
+}
