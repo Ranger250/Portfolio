@@ -235,7 +235,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    width: 130%;
+    width: 100%;
 }
 
 .side-by-side {
