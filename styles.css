@@ -237,6 +237,7 @@ body {
     justify-content: space-around;
     width: 100%;
     flex-direction: column;
+    margin-bottom: 3%;
 }
 
 .side-by-side {
