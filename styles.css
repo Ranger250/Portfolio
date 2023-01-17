@@ -236,6 +236,7 @@ body {
     align-items: center;
     justify-content: space-around;
     width: 100%;
+    flex-direction: column;
 }
 
 .side-by-side {
@@ -243,7 +244,7 @@ body {
     align-items: center;
     justify-content: space-around;
     width: 80%;
-    flex-direction: column;
+    
 }
 
 .side-by-side img {
